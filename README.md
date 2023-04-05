@@ -1,4 +1,4 @@
-# WSA patch for Windows 10
+# WSA patch for Windows 10 -
 
 [中文版本](./README_zhs.md)
 
